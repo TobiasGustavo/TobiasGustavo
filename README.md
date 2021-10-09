@@ -4,7 +4,7 @@
  - 🧑🏾‍💻 Pronomes (Ele/He) 
  - 🧑🏾‍💻 Futuro Developer Full Stack Jr. 
  - 🚀 Atualmente Alumni Generation Brasil @Generationbrasil
- - 📝 Estudando Java, HTML, CSS, Bootstrap 
+ - 📝 Estudando Java, HTML, CSS, Bootstrap, MySQL, Spring boot, JavaScript e Angular.
  - 📧 E-mail: tobiasgustavoh@gmail.com
  - 💡 Good Ideias and creativity 
 </div>

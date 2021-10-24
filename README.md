@@ -7,10 +7,14 @@
  - 📝 Student Java, HTML, CSS, Bootstrap, MySQL, Spring boot, JavaScript e Angular.
  - 📧 E-mail: tobiasgustavoh@gmail.com
  - 💡 Good Ideias and creativity 
+ 
 </div>
+
 <div>
   <a href="https://github.com/tgzss">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tgzss&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgzss&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tgzss&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgzss&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
+   
 </div>
 <div style="display: inline_block"><br>
 <h2> Linguagens de Programação </h2>
@@ -23,8 +27,9 @@
  <img align="center" alt="tgzss-MySql" height=50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
  <img align="center" alt="tgzss-Node" height=50" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
  <img align="center" alt="tgzss-apple" height=50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
-<div>
-</div>
+
+ <div>
+ </div>
 <h2> Mídias Sociais </h2>
   <a href="https://www.linkedin.com/in/tobias-soares-85a6b41a0//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://medium.com/@tobiasgustavo" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23333?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>

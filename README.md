@@ -2,10 +2,10 @@
  <div>
  
  - 🧑🏾‍💻 Pronouns (Ele/He) 
- - 🧑🏾‍💻 Future Developer Full Stack Jr. 
- - 🚀 I'm Alumni Generation Brasil @Generationbrasil
+ - 🧑🏾‍💻 Developer Full Stack Jr. (Java) - Generation Brasil 
+ - 🚀 I'm student IT System at UFLA.
  - 📝 Student Java, HTML, CSS, Bootstrap, MySQL, Spring boot, JavaScript e Angular.
- - 📧 E-mail: tobiasgustavoh@gmail.com
+ - 📧 E-mail: tobias.soares@estudante.ufla.br
  - 💡 Good Ideias and creativity 
  
 </div>

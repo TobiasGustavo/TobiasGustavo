@@ -1,7 +1,6 @@
 ### Oii! Sou Tobias Gustavo e seja muito bem-vinda(o) ao meu perfil // Hello, I'm Tobias Gustavo Welcome to my profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  <div>
  
- - 🧑🏾‍💻 Pronouns (Ele/He) 
  - 🧑🏾‍💻 Developer Full Stack Jr. (Java) - Generation Brasil 
  - 🚀 I'm student IT System at UFLA.
  - 📝 Student Java, HTML, CSS, Bootstrap, MySQL, Spring boot, JavaScript e Angular.

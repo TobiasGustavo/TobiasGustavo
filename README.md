@@ -1,4 +1,4 @@
-### Oii! Sou Tobias Gustavo e seja muito bem-vinda(o) ao meu perfil // Hello, I'm Tobias Gustavo Welcome to my profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+###  Hello, I'm Tobias Gustavo Welcome to my profile 
  <div>
  
  - 🧑🏾‍💻 Developer Full Stack Jr. (Java) - Generation Brasil 
@@ -31,6 +31,5 @@
  </div>
 <h2> Mídias Sociais </h2>
   <a href="https://www.linkedin.com/in/tobias-soares-85a6b41a0//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://medium.com/@tobiasgustavo" target="_blank"><img src="https://img.shields.io/badge/-Medium-%23333?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
   <a href = "mailto:tobiasgustavoh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://discord.gg/tobias.soares#4810" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 

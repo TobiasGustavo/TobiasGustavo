@@ -1,9 +1,9 @@
 ###  Hello, I'm Tobias Gustavo Welcome to my profile 
  <div>
  
- - 🧑🏾‍💻 Developer Full Stack Jr. (Java) - Generation Brasil 
+ - 🧑🏾‍💻 Developer Full Stack Jr.  
  - 🚀 I'm student IT System at UFLA.
- - 📝 Student Java, HTML, CSS, Bootstrap, MySQL, Spring boot, JavaScript e Angular.
+ - 📝 Student Oracle OCI, Blockchain and Cybersecurity
  - 📧 E-mail: tobias.soares@estudante.ufla.br
  - 💡 Good Ideias and creativity 
  
@@ -16,10 +16,10 @@
    
 </div>
 <div style="display: inline_block"><br>
-<h2> Linguagens de Programação </h2>
+<h2> Technologies </h2>
  </p>
 
- ### Technologies:
+
  <div style="display: inline_block"><br>
    <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/></code>
    <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
@@ -43,7 +43,7 @@
  
  
  
-<h2> Mídias Sociais </h2>
+<h2> Social Media </h2>
   <a href="https://www.linkedin.com/in/tobias-soares-85a6b41a0//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:tobiasgustavoh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://discord.gg/tobias.soares#4810" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 

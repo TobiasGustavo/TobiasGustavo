@@ -2,9 +2,9 @@
  <div>
  
  - 🧑🏾‍💻 Developer Full Stack Jr.  
- - 🚀 I'm student IT System at UFLA.
+ - 🚀 I'm student IT System.
  - 📝 Student Oracle OCI, Blockchain and Cybersecurity
- - 📧 E-mail: tobias.soares@estudante.ufla.br
+ - 📧 E-mail: tobiasgustavo.soares@gmail.com
  - 💡 Good Ideias and creativity 
  
 </div>

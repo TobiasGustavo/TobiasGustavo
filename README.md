@@ -2,7 +2,7 @@
  <div>
  
  - 🧑🏾‍💻 Developer Full Stack Jr.  
- - 🚀 I'm student IT System.
+ - 🚀 I'm student IT System Information.
  - 📝 Student Oracle OCI, Blockchain and Cybersecurity
  - 📧 E-mail: tobiasgustavo.soares@gmail.com
  - 💡 Good Ideias and creativity 

@@ -9,11 +9,7 @@
  
 </div>
 
-<div>
-  <a href="https://github.com/tgzss">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TobiasGustavo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobiasGustavo&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
-   
+
 </div>
 <div style="display: inline_block"><br>
 <h2> Technologies </h2>

@@ -1,7 +1,7 @@
 ###  Hello, I'm Tobias Gustavo Welcome to my profile 
  <div>
  
- - 🧑🏾‍💻 Developer Full Stack Jr.  
+ - 🧑🏾‍💻 Developer  
  - 🚀 I'm student IT System Information.
  - 📝 Student Oracle OCI, Blockchain and Cybersecurity
  - 📧 E-mail: tobiasgustavo.soares@gmail.com
